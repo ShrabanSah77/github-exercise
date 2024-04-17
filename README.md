@@ -1,2 +1,3 @@
 # github-exercise
-learn Github
+
+Today I learned how to clone git.
